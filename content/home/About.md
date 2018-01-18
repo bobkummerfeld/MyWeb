@@ -18,7 +18,8 @@ weight = 5
 [affiliations]
   affiliations = [
 	"University of Sydney, School of IT",
-	"Computer Human Adapted Interface Research Group"
+	"Computer Human Adapted Interface Research Group (CHAI)",
+	"Human Centred Technology Cluster, Faculty of Engineering and IT"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,7 +37,7 @@ weight = 5
 
 # 
 
-I am an Honorary Associate Professor in the School of Information Technologies, University of Sydney. I am a member of the Computer Human Adapted Interaction (CHAI) Group led by Professor Judy Kay. I have interests in context aware systems, message delivery systems, customisation/personalisation using user models and related areas.
+I am an Honorary Associate Professor in the School of Information Technologies, University of Sydney. I am a member of the Computer Human Adapted Interaction (CHAI) Group led by Professor Judy Kay. I have interests in pervasive and context aware systems, message delivery systems, customisation/personalisation using user models and related areas.
 
 I am particularly interested in Simple Systems – novel interfaces that are easy to use yet efficient and effective.
 

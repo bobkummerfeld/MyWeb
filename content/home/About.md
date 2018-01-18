@@ -27,7 +27,7 @@ weight = 5
 
 +++
 
-# Biography
+# Bio
 
 I am an Honorary Associate Professor in the School of Information Technologies, University of Sydney. I am a member of the Computer Human Adapted Interaction (CHAI) Group led by Professor Judy Kay. I have interests in context aware systems, message delivery systems, customisation/personalisation using user models and related areas.
 

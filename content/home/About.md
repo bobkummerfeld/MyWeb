@@ -14,6 +14,13 @@ weight = 5
     "Pervasive Computing Systems"
   ]
 
+# Affiliations
+[affiliations]
+  affiliations = [
+	"University of Sydney, School of IT",
+	"Computer Human Adapted Interface Research Group"
+  ]
+
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
@@ -27,7 +34,7 @@ weight = 5
 
 +++
 
-# Bio
+# 
 
 I am an Honorary Associate Professor in the School of Information Technologies, University of Sydney. I am a member of the Computer Human Adapted Interaction (CHAI) Group led by Professor Judy Kay. I have interests in context aware systems, message delivery systems, customisation/personalisation using user models and related areas.
 

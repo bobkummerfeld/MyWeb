@@ -1,0 +1,12 @@
+
+edit the content
+
+run "hugo -d ~/Dropbox/bobkummerfeld.github.io" in top level
+
+in directory ~/Dropbox/bobkummerfeld.github.io do the following:
+
+git pull
+git commit -a
+git push
+
+

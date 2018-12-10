@@ -11,8 +11,8 @@ title = "Full Publication List"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 25
 
 +++
 
-A full list of my publications can be found [here](https://bobkummerfeld.github.io/bob-pubs.html).
+A full list of my publications can be found [here](http://bobkummerfeld.github.io/bob-pubs.html).

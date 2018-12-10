@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 """
@@ -48,13 +48,15 @@ def main():
         if args.verbose:
             print("Creating directory '{}'".format(args.dir))
         os.makedirs(args.dir)
+    if args.verbose:
+        print("Changing to directory '{}'".format(args.dir))
     os.chdir(args.dir)
 
     for index, entry in enumerate(bib_data.entries):
         if args.verbose:
             print("Making entry {0}: {1}".format(index + 1, entry['ID']))
-        if entry['ENTRYTYPE'] != 'article':
-            continue
+        #if entry['ENTRYTYPE'] != 'article':
+        #    continue
         info = ['+++']
         abstract_clean = entry['abstract'].replace('"', '\\"')
         info.append('abstract = "{}"'.format(abstract_clean))
@@ -83,6 +85,8 @@ def main():
         info.append('\n\n+++')
         pub_info = '\n'.join(info)
         file_name = entry['ID'] + '.md'
+        if args.verbose:
+            print("Filename: '{}'".format(file_name))
 
         try:
             if args.verbose:

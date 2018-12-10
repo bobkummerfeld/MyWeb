@@ -37,7 +37,7 @@ weight = 5
 
 # 
 
-I am an Affiliate Professor in the School of Information Technologies, University of Sydney. I am a member of the Computer Human Adapted Interaction (CHAI) Group led by Professor Judy Kay. I have interests in pervasive and context aware systems, message delivery systems, customisation/personalisation using user models and related areas.
+I am an Affiliate Professor in the School of Computer Science, University of Sydney. I am a member of the Computer Human Adapted Interaction (CHAI) Group led by Professor Judy Kay. I have interests in pervasive and context aware systems, message delivery systems, customisation/personalisation using user models and related areas.
 
 I am particularly interested in Simple Systems – novel interfaces that are easy to use yet efficient and effective.
 

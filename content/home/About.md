@@ -18,8 +18,7 @@ weight = 5
 [affiliations]
   affiliations = [
 	"University of Sydney, School of Computer Science",
-	"Computer Human Adapted Interface Research Group (CHAI)",
-	"Human Centred Technology Cluster, Faculty of Engineering"
+	"Human Centred Technology Research"
   ]
 
 # List your qualifications (such as academic degrees).

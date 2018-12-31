@@ -1,0 +1,33 @@
+#!/bin/bash
+cd ~/Dropbox/MyWeb
+echo "git status:"
+git status
+echo -n "ok to pull? [ctrl-C for no]";read x
+git pull
+echo -n "ok to commit? [ctrl-C for no]";read x
+if [ x"$1" != x ]
+then
+	git commit -a -m "$1"
+else
+	git commit -a
+fi
+echo -n "ok to push? [ctrl-C for no]";read x
+git push
+echo "Running Hugo..."
+hugo -d ~/Dropbox/bobkummerfeld.github.io
+
+cd ~/Dropbox/bobkummerfeld.github.io 
+echo "Changing to bobkummerfeld.github.io and running git pull"
+git pull
+echo -n "ok to commit? [ctrl-C for no]";read x
+if [ x"$1" != x ]
+then
+	git commit -a -m "$1"
+else
+	git commit -a
+fi
+echo -n "ok to push? [ctrl-C for no]";read x
+git push
+
+echo "----------- all done -----------"
+

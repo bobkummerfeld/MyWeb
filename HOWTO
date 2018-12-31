@@ -15,3 +15,12 @@ git push
 The script "doall" does those steps with confirmation at each step.
 
 
+---------------------------------
+Notes:
+to get the password helper:
+  git credential-osxkeychain
+
+to use the password helper:
+  git config --global credential.helper osxkeychain
+
+

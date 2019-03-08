@@ -16,3 +16,5 @@ weight = 25
 +++
 
 A full list of my publications can be found [here](http://bobkummerfeld.github.io/bob-pubs.html).
+
+My cv can be found at [My CV]({{< ref "cv.md" >}})

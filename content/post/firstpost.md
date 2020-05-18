@@ -102,6 +102,6 @@ satellite parked over the Pacific. The on-board transceiver was
 still usable and we started exchanging messages with Tohoku.
 
 
-I was offered a 3 year lectureship and the beginning of 1978 which
+I was offered a 3 year lectureship at the beginning of 1978 which
 was converted to tenure track in 1979 and tenured in 1980.  
 

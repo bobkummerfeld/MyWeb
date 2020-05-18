@@ -76,7 +76,7 @@ many years after.
 
 The key architecture of  MHSnet is that it was a store-and-forward
 message system with a very flexible transport layer that could run
-over and sort of underlying communication link, and a flexible
+over any sort of underlying communication link, and a flexible
 application layer that could provide message services for things
 such as email and file transfer among many.  The transport layer
 could run over dialup, fixed lines or services such X25 and the
@@ -86,4 +86,4 @@ neighbouring nodes but automatically pruned the table where possible.
 
 On a personal note, the 1980s were when my incredible children were
 born - Sarah in 1980, Rebecca in 1985 and Jonathan in 1988.  All
-now in senior positions in research and academia.
+now with PhDs and in senior positions in research and academia.
